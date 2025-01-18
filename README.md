@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection-Using-Machine-Learning
+# Breast Cancer Detection Using Machine Learning
 Breast Cancer Detection Using Machine Learning Code, Document And Tutorial Video
 
 ![breast cancer](https://github.com/user-attachments/assets/e437c1b2-39a7-408f-86bb-1de978666d4b)
